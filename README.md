@@ -28,7 +28,7 @@ The following **optional** features are soon to be implemented:
 
 ### Here's two walkthrough's of implemented user stories:
 
-#### New Feature
+#### Intorducing: *Blurrr*
 
 <img src='http://g.recordit.co/8nzPgze5CJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
